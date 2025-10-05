@@ -1,7 +1,6 @@
 <!-- Hero Banner / Logo -->
 <p align="center">
-  <img width="200" src="https://raw.githubusercontent.com/inno-devops-labs/.github/main/profile/logo.png
-  " alt="Innopolis DevOps Labs" />
+  <img width="200" src="[https://raw.githubusercontent.com/inno-devops-labs/.github/main/profile/logo.png](https://avatars.githubusercontent.com/u/134206090?s=200&v=4)" alt="Innopolis DevOps Labs" />
 </p>
 
 <h1 align="center">Innopolis DevOps & DevSecOps Courses</h1>
